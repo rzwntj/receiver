@@ -1,0 +1,13 @@
+{
+    "name": "Your App Name",
+    "description": "A brief description of your app",
+    "url": "https://example.com", 
+    "icons": [
+        "https://example.com/icon.png" 
+    ],
+    "supportedWallets": [
+        "tonhub",
+        "tonkeeper"
+        
+    ]
+}
